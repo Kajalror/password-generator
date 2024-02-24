@@ -1,0 +1,242 @@
+.navbar-expand-lg{
+  background-color:rgb(248, 245, 245) transparent;
+  font-size: 22px;
+}
+.Main{
+  background:url("https://www.theriyasat.ca/wp-content/uploads/2023/02/flat-lay-indian-food-frame-1.jpg");
+  background-position:center center;
+  background-size:cover !important; 
+  height: 90vh;
+}
+.title{
+  position: relative;
+  font-weight: 900px;
+  letter-spacing: 2px;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-style: italic;
+ }
+.Riyasat-text{
+  color: white;
+  width: 90%;
+  position: absolute;
+  top: 200px;
+}
+h3{
+  font-size: 600%;
+}
+.underline{
+  width: 50px;
+  height: 2px;
+  margin: 0px auto ;
+  background-color:rgb(107,0,62);
+}
+h2{
+  font-family:cursive;
+  line-height: 2;
+  letter-spacing: 1.5;
+}
+.fontsize{
+  font-size: 40px;
+  text-transform: uppercase;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.adjustpara{
+  font-size: 18px;
+  letter-spacing: 1.8px;
+  word-wrap: break-word;
+  margin: 0px auto;
+}
+.headingbg{
+  background-color: #2d2c32 !important;
+  color: white;
+}
+.heading{
+  font-size: 50px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+.card{
+  border: none !important ;
+  
+}
+.card-body{
+background-color: #2d2c32;
+color: white;
+font-family:Arial, Helvetica, sans-serif ;
+border: none;
+}
+.card-text{
+font-size: 10px;
+color: #919199 !important;
+border: none;
+}
+.btncolor{
+/* border-color: #6c5a14; */
+border: 2px solid #6c5a14;
+background-color:rgba(224, 166, 7, 0.274) ;
+color:#6c5a14 ;
+box-shadow: 2px 2px;
+}
+.btncolor:hover{
+  background-color:#c6ab3f88;
+  border-color: #d1ac1b;
+  color:#c6ab3f9f;
+}
+.fontstyle ,h2,h4{
+font-family: Arial, Helvetica, sans-serif;
+}
+.btn-outline-dark{
+  border: 2px solid;
+  border-radius:0%;
+}
+.whiteibg{
+background-color: white !important;
+color: black;
+}
+.text-co{
+  height: 80vh;
+  color: white;
+  position: relative;
+  background-image: url("https://www.theriyasat.ca/wp-content/uploads/2022/01/paul-gilmore-KT3WlrL_bsg-unsplash-1-scaled.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.about-uss{
+position: relative;
+top: 150px;
+text-transform: uppercase;
+margin: 0px auto;
+/* border: 2px solid; */
+}
+.Under{
+  height:2px ;
+  width:200px ;
+  margin: 0px auto;
+  background-color: rgb(254,248,76);
+}
+.Sharma{
+font-size: 30px;
+text-transform: capitalize;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.mission{
+  border: 2px solid;
+  border-radius:4px ;
+  margin: 0px auto;
+}
+.Our{
+  font-size: 25px;
+  text-transform: uppercase;
+}
+.cooking{
+background-color: #605d6e;
+color: white;
+}
+.vision{
+  background-color: white;
+  color: #2d2c32;
+}
+.Meennuu{
+  height: 90vh;
+  color: rgb(255, 255, 255);
+  background-image: linear-gradient(to right, rgba(34, 35, 36, 0.6), rgba(49, 51, 54, 0.6)),url("https://www.theriyasat.ca/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-20-at-9.47.59-PM.jpeg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.menuu{
+color: rgb(255, 255, 255);
+/* position: absolute; */
+/* top: 100px; */
+/* font-size: 50px !important; */
+text-transform: uppercase;
+}
+.underline-menuu{
+  height:3px;
+  width:350px;
+  margin: 0px auto;
+  background-color: #878907;
+}
+.sub-title{
+font-size: 45px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.positon{
+margin: 0px auto;
+position:relative;
+top: 150px;
+/* border: 2px solid; */
+}
+.vc-row{
+font-size: 35px;
+/* margin: 0px auto; */
+}
+.Under-title{
+  height:2px;
+  width:70px;
+  margin: 0px auto;
+  background-color: #d1ac1b;
+}
+.item-text{
+  font-size: 14px;
+}
+.item-prices{
+  color:#caa40c;
+}
+.reservbg{
+  background-image:linear-gradient(to right, rgba(34, 35, 36, 0.6), rgba(49, 51, 54, 0.6)),url("https://www.theriyasat.ca/wp-content/uploads/2021/08/fabrizio-magoni-boaDpmC-_Xo-unsplash.jpg");
+  height:80vh;
+  color: white;
+  background-position:center center ;
+  background-repeat:no-repeat ;
+  background-size:cover ;
+  background-attachment: fixed;
+}
+.position-table{
+  position: relative;
+  top: 150px;
+  font-size:20px;
+  font-family:serif;
+}
+
+
+
+
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+} */
+
+/* @media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+} */
+
+/* .App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+} */
+
+/* .App-link {
+  color: #61dafb;
+} */
+
+/* @keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
